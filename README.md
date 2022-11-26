@@ -1,3 +1,3 @@
 # Introduction to C++ 2019
 
-Three day C++ course with a fourth day practical
+Lecture slides and practicals for a 4 day introduction to C++ course
